@@ -38,12 +38,11 @@ This test is designed to evaluate your proficiency in React.js, Redux, Material 
 - **Testing**: 15 minutes
 
 ## Instructions
-1. Clone this repository.
+1. Use Code spaces! (no cloning required!)
 2. Install dependencies using `npm install`.
 3. Start the development server using `npm run dev`.
 4. Implement the requirements in the `src` folder.
 5. Write tests in the `src/__tests__` folder.
-6. Submit your code by pushing it to a Git repository or sharing a zip file.
 
 ## Evaluation Criteria
 - Code quality and organization.
